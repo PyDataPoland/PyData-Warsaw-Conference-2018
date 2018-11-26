@@ -42,7 +42,7 @@ Feel invited to Pull Request with link to slides or the project website.
 * "Bit to Qubit: Data in the age of quantum computers" - Shahnawaz Ahmed
 * "Transfer Learning for Neural Networks" - Dominik Lew
 * "Spot the difference: train your image analytics model to recognize fine grained similarity" - Katarina Milosevic, Ioana Gherman, 
-* [In Browser AI - neural networks for everyone](https://www.dropbox.com/s/djht30ujl39w5sj/20181119_inbrowserai%20pydata%20warsaw.pdf?dl=0) - Kamila Stepniowska, Piotr Migdał (project: )
+* [In Browser AI - neural networks for everyone](https://www.dropbox.com/s/djht30ujl39w5sj/20181119_inbrowserai%20pydata%20warsaw.pdf?dl=0) - Kamila Stepniowska, Piotr Migdał
 * "Using convolutional neural networks to analyze bacteriophages DNA" - Michał Jadczuk
 * "Comixify: Turning videos into comics" - Adam Svystun, Maciej Pęśko,
 * "High Performance Data Processing in Python" - Donald Whyte
