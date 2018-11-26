@@ -23,6 +23,7 @@ Feel invited to Pull Request with link to slides or the project website.
 * Gene Kogan - "The Neural Aesthetic"
 
 ### Talks
+
 ####  Monday Nov. 19, 2018
 
 * "PyTorch 1.0: now and in the future" - Adam Paszke
@@ -41,12 +42,12 @@ Feel invited to Pull Request with link to slides or the project website.
 * "Bit to Qubit: Data in the age of quantum computers" - Shahnawaz Ahmed
 * "Transfer Learning for Neural Networks" - Dominik Lew
 * "Spot the difference: train your image analytics model to recognize fine grained similarity" - Katarina Milosevic, Ioana Gherman, 
-* "In Browser AI" - neural networks for everyone - Kamila Stepniowska, Piotr Migdał
+* [In Browser AI - neural networks for everyone](https://www.dropbox.com/s/djht30ujl39w5sj/20181119_inbrowserai%20pydata%20warsaw.pdf?dl=0) - Kamila Stepniowska, Piotr Migdał (project: )
 * "Using convolutional neural networks to analyze bacteriophages DNA" - Michał Jadczuk
 * "Comixify: Turning videos into comics" - Adam Svystun, Maciej Pęśko,
 * "High Performance Data Processing in Python" - Donald Whyte
 * "What ad is this?" - Adam Witkowski
-* "Spammers vs. Data: My everyday fight" - Juan De Dios Santos
+* [Spammers vs. Data: My everyday fight](https://drive.google.com/file/d/16XXvLtucyqQpMqQ7OPc0T3XHMMXSbpvN/view) - Juan De Dios Santos
 * "Pragmatic application of Machine Learning in commercial products" - Łukasz Słabiński
 
 
@@ -70,13 +71,8 @@ Feel invited to Pull Request with link to slides or the project website.
 * "Step by step face swap" - Sylwester Brzęczkowski
 * "Optimizing Deep Neural Network Layer Topology with Delve" - Justin Shenk
 
-
-### Contributed
-
-* Kamila Stępniowska, Piotr Migdał - [In Browser AI - neural networks for everyone](https://www.dropbox.com/s/djht30ujl39w5sj/20181119_inbrowserai%20pydata%20warsaw.pdf?dl=0)
-* Juan De Dios Santos - [Spammers vs. Data: My everyday fight](https://drive.google.com/file/d/16XXvLtucyqQpMqQ7OPc0T3XHMMXSbpvN/view)
-
 ### Tutorials
+
 * "Building Interactive Dashboards in Python - First steps with Dash" - Mikolaj Olszewski	
 * "Recognize drawings in the browser with Tensorflow.js" - Karol Majek, Monika Koprowska	
 * "Playing with CNN using Fashion-MNIST. Classification and what else can be done on it? - Rafał Wojdan	
