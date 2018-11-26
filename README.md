@@ -25,5 +25,6 @@ Feel invited to Pull Request with link to slides or the project website.
 ### Contributed
 
 * Kamila Stępniowska, Piotr Migdał - [In Browser AI - neural networks for everyone](https://www.dropbox.com/s/djht30ujl39w5sj/20181119_inbrowserai%20pydata%20warsaw.pdf?dl=0)
+* Juan De Dios Santos - [Spammers vs. Data: My everyday fight](https://drive.google.com/file/d/16XXvLtucyqQpMqQ7OPc0T3XHMMXSbpvN/view)
 
 ### Tutorials
