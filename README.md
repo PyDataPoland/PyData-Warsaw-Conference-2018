@@ -23,7 +23,7 @@ Feel invited to Pull Request with link to slides or the project website.
 * Gene Kogan - "The Neural Aesthetic"
 
 ### Talks
-##  Monday Nov. 19, 2018
+####  Monday Nov. 19, 2018
 
 * "PyTorch 1.0: now and in the future" - Adam Paszke
 * "Deep Learning for 3D World: Point Clouds" - Marcin Mosiołek
@@ -50,7 +50,7 @@ Feel invited to Pull Request with link to slides or the project website.
 * "Pragmatic application of Machine Learning in commercial products" - Łukasz Słabiński
 
 
-## Tuesday Nov. 20, 2018
+#### Tuesday Nov. 20, 2018
 
 * "Towards Data Pipeline Hyperparameter Optimization" - Alex Quemy
 * "Similarity learning using deep neural networks" - Jacek Komorowski
