@@ -5,8 +5,9 @@
 * [PyData Warsaw 2018](https://pydata.org/warsaw2018/) event website
 * [@PyDataWarsaw](https://twitter.com/pydatawarsaw) Twitter channel
 * [Graphic recordings by Ania Staśkiewicz](https://github.com/PyDataPoland/PyData-Warsaw-Conference-2018/tree/master/Graphic%20recordings%20by%20Ania%20Staskiewicz)
+* [Meetup website](https://www.meetup.com/Pydata-Warsaw)
 * Photos
-  - official: TO BE POSTED
+  - official: [Google Photos album](https://photos.app.goo.gl/k3r9rd5QiL8p4o9HA)
   - post link to your gallery :)
 * Video: TO BE POSTED
 * [Participant demographics analysis (draft version)](https://github.com/stared/random_data_explorations/blob/master/201811_pydatawaw2018/analysis.ipynb)
