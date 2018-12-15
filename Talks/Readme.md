@@ -36,7 +36,7 @@
 * "Learning to rank @ allegro.pl" - Tomasz Bartczak, Ireneusz Gawlik
 * "The smart shopping basket: A Case Study with deep learning, Intel Movidius and AWS" - Marcin Stachowiak, Michal Dura, Piotr Szajowski
 * "It is never too much: training deep learning models with more than one modality" - Adam Słucki
-* "Visualize, Explore and Explain Predictive ML Models" - Przemyslaw Biecek
+* ["Visualize, Explore and Explain Predictive ML Models"](https://github.com/pbiecek/Talks/blob/master/2018/DALEX_PyDataWarsaw2018.pdf) - [Przemyslaw Biecek](http://pbiecek.github.io/)
 * "The Dawn of Mind Reading in Python" - Krzysztof Kotowski
 * "Uncertainty estimation and Bayesian Neural Networks" - Marcin Możejko
 * "A deep revolution in speech processing and analysis" - Pawel Cyrta15:30
