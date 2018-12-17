@@ -16,7 +16,7 @@
 * "3d visualisation in a Jupyter notebook" - Marcin Kostur, Artur Trzęsiok
 * "Deep Learning Semantic Segmentation for Nucleus Detection" - Dawid Rymarczyk
 * "Bit to Qubit: Data in the age of quantum computers" - Shahnawaz Ahmed
-* "Transfer Learning for Neural Networks" - Dominik Lew
+* ["Transfer Learning for Neural Networks"](https://github.com/Lingaro-DataScience/transfer_learning) - Dominik Lewy
 * "Spot the difference: train your image analytics model to recognize fine grained similarity" - Katarina Milosevic, Ioana Gherman,
 * [In Browser AI - neural networks for everyone](https://www.dropbox.com/s/djht30ujl39w5sj/20181119_inbrowserai%20pydata%20warsaw.pdf?dl=0) - Kamila Stepniowska, Piotr Migdał
 * "Using convolutional neural networks to analyze bacteriophages DNA" - Michał Jadczuk
