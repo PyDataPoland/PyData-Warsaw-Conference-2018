@@ -58,7 +58,7 @@ Feel invited to Pull Request with link to slides or the project website.
 * "Similarity learning using deep neural networks" - Jacek Komorowski
 * "Application of Recurrent Neural Networks to innovative drug design" - Rafał A. Bachorz
 * "Computer vision challenges in drug discovery" - Dr Maciej Hermanowicz
-* "Learning to rank @ allegro.pl" - Tomasz Bartczak, Ireneusz Gawlik
+* ["Learning to rank @ allegro.pl" - Tomasz Bartczak, Ireneusz Gawlik"](https://github.com/kretes/PyData-Warsaw-Conference-2018/blob/master/Talks/PDWC2018%20-%20Ireneusz%20Gawlik%20Tomasz%20Bartczak%20-%20Learning%20to%20rank%20at%20allegro.pl.pdf)
 * "The smart shopping basket: A Case Study with deep learning, Intel Movidius and AWS" - Marcin Stachowiak, Michal Dura, Piotr Szajowski
 * "It is never too much: training deep learning models with more than one modality" - Adam Słucki
 * "Visualize, Explore and Explain Predictive ML Models" - Przemyslaw Biecek
