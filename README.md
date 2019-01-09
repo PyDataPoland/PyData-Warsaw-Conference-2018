@@ -47,7 +47,7 @@ Feel invited to Pull Request with link to slides or the project website.
 * "Using convolutional neural networks to analyze bacteriophages DNA" - Michał Jadczuk
 * "Comixify: Turning videos into comics" - Adam Svystun, Maciej Pęśko,
 * "High Performance Data Processing in Python" - Donald Whyte
-* "What ad is this?" - Adam Witkowski
+* [What ad is this?](https://docs.google.com/presentation/d/1aAI6aWJcWvkWl67WEInfRUEJ6Ik941BF2o0bCMB-rCY/edit#slide=id.p) - Adam Witkowski
 * [Spammers vs. Data: My everyday fight](https://drive.google.com/file/d/16XXvLtucyqQpMqQ7OPc0T3XHMMXSbpvN/view) - Juan De Dios Santos
 * "Pragmatic application of Machine Learning in commercial products" - Łukasz Słabiński
 
